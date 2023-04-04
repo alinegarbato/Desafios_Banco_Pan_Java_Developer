@@ -12,7 +12,7 @@ Repositório criado no desafio GIT com intuito de registro de notas, exercícios
 ## :books: índice
 
 <!--ts-->
-   * <a href="https://github.com/alinegarbato/Desafios_Banco_Pan_Java_Developer/blob/main/README.md#Sobre-o-Projeto">Sobre-o-Projeto</a>
+   * <a href="https://github.com/alinegarbato/Desafios_Banco_Pan_Java_Developer/blob/main/README.md#Sobre-o-Projeto">Sobre o Projeto</a>
    * <a href="#Sobre-a-Dio">Sobre a Dio</a>
    * <a href="#Exercícios-e-Anotações">Exercícios-e-Anotações</a>
    * [Dependências Necessárias](#Dependências-Necessárias)
