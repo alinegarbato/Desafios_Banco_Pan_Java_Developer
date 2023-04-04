@@ -13,9 +13,9 @@ Repositório criado no desafio GIT com intuito de registro de notas, exercícios
 
 <!--ts-->
    * <a href="#Sobre o Projeto">Sobre-o-Projeto</a>
-   * <a href="#Sobre a Dio">Sobre-a-Dio</a>
+   * <a href="#Sobre-a-Dio">Sobre a Dio</a>
    * <a href="#Exercícios-e-Anotações">Exercícios-e-Anotações</a>
-   * [Tests](#testes)
+   * [Dependências Necessárias](#Dependências Necessárias)
    * [Tecnologias](#tecnologias)
 <!--te-->
 
