@@ -15,7 +15,7 @@ Repositório criado no desafio GIT com intuito de registro de notas, exercícios
    * <a href="#Sobre o Projeto">Sobre-o-Projeto</a>
    * <a href="#Sobre-a-Dio">Sobre a Dio</a>
    * <a href="#Exercícios-e-Anotações">Exercícios-e-Anotações</a>
-   * [Dependências Necessárias](#Dependências Necessárias)
+   * [Dependências Necessárias](#Dependências-Necessárias)
    * [Tecnologias](#tecnologias)
 <!--te-->
 
@@ -34,7 +34,7 @@ Abaixo, seguem meus registros de exercícios e anotações de acordo com a carga
 * Lógica de Programação e Algoritmo III
 
 
-## :soon: Dependências Necessárias
+## :soon: Dependências Necessárias (Dependências-Necessárias)
 
 * Instruções para instalação no Windows
 
