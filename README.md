@@ -19,11 +19,11 @@ Repositório criado no desafio GIT com intuito de registro de notas, exercícios
    * [Tecnologias](#tecnologias)
 <!--te-->
 
-## 📚 Sobre o Projeto
-O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha completa em Java Spring Boot e 5 mil bolsas de estudo disponíveis. É indicado para pessoas de baixa renda e de grupos sub representados que estão em busca de sua primeira formação no universo da tecnologia, entretanto, qualquer pessoa interessada pode participar.
+## Sobre o Projeto
+📚 O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha completa em Java Spring Boot e 5 mil bolsas de estudo disponíveis. É indicado para pessoas de baixa renda e de grupos sub representados que estão em busca de sua primeira formação no universo da tecnologia, entretanto, qualquer pessoa interessada pode participar.
 
-## :books: Sobre a Dio
-A missão da DIO é criar novas possibilidades para pessoas e organizações de todos os lugares. Com objetivo de cumprir nossa missão, ofertamos gratuitamente conteúdos educacionais, como Bootcamps e Acelerações que são promovidos por Empresas Parceiras com objetivo de recrutarem Devs para trabalharem com elas. 
+## Sobre a Dio
+📚 A missão da DIO é criar novas possibilidades para pessoas e organizações de todos os lugares. Com objetivo de cumprir nossa missão, ofertamos gratuitamente conteúdos educacionais, como Bootcamps e Acelerações que são promovidos por Empresas Parceiras com objetivo de recrutarem Devs para trabalharem com elas. 
 
 ## :rocket: [Exercícios e Anotações](#Exercícios-e-Anotações)
 Abaixo, seguem meus registros de exercícios e anotações de acordo com a carga horária:
