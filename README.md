@@ -12,17 +12,17 @@ Repositório criado no desafio GIT com intuito de registro de notas, exercícios
 ## :books: índice
 
 <!--ts-->
-   * <a href="https://github.com/alinegarbato/Desafios_Banco_Pan_Java_Developer/blob/main/README.md#Sobre-o-Projeto">Sobre o Projeto</a>
-   * <a href="#Sobre-a-Dio">Sobre a Dio</a>
-   * <a href="#Exercícios-e-Anotações">Exercícios-e-Anotações</a>
-   * [Dependências Necessárias](#Dependências-Necessárias)
+   * [Sobre o Projeto](#sobre-o-projeto)
+   * [Sobre a Dio](#sobre-a-dio)
+   * [Exercícios e Anotações](#exercícios-e-anotações)
+   * [Dependências Necessárias](#dependências-necessárias)
    * [Tecnologias](#tecnologias)
 <!--te-->
 
-## :books: [Sobre o Projeto](#Sobre-o-Projeto)
+## :books: Sobre o Projeto
 O primeiro programa do Banco PAN em parceria com a DIO chega com uma trilha completa em Java Spring Boot e 5 mil bolsas de estudo disponíveis. É indicado para pessoas de baixa renda e de grupos sub representados que estão em busca de sua primeira formação no universo da tecnologia, entretanto, qualquer pessoa interessada pode participar.
 
-## :books: [Sobre a Dio](#Sobre-a-Dio)
+## :books: Sobre a Dio
 A missão da DIO é criar novas possibilidades para pessoas e organizações de todos os lugares. Com objetivo de cumprir nossa missão, ofertamos gratuitamente conteúdos educacionais, como Bootcamps e Acelerações que são promovidos por Empresas Parceiras com objetivo de recrutarem Devs para trabalharem com elas. 
 
 ## :rocket: [Exercícios e Anotações](#Exercícios-e-Anotações)
