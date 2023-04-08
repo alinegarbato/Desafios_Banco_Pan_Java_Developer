@@ -14,7 +14,7 @@ Repositório criado no desafio GIT com intuito de registro de notas, exercícios
 <!--ts-->
    * [Sobre o Projeto](#sobre-o-projeto)
    * [Sobre a Dio](#sobre-a-dio)
-   * [Exercícios e Anotações](#exercicios-e-anotacoes)
+   * [Exercícios e Anotações](#exercícios-e-anotações)
    * [Colaboradores](#colaboradores)
    * [Status do Projeto](#status-do-projeto)
 <!--te-->
@@ -25,7 +25,7 @@ Repositório criado no desafio GIT com intuito de registro de notas, exercícios
 ## Sobre a Dio
 📚 A missão da DIO é criar novas possibilidades para pessoas e organizações de todos os lugares. Com objetivo de cumprir nossa missão, ofertamos gratuitamente conteúdos educacionais, como Bootcamps e Acelerações que são promovidos por Empresas Parceiras com objetivo de recrutarem Devs para trabalharem com elas. 
 
-##  Exercícios e Anotações
+## Exercícios e Anotações
 :rocket: Abaixo, seguem meus registros de exercícios e anotações de acordo com a carga horária:
 
 * Introdução a Lógica de Programação
@@ -33,7 +33,8 @@ Repositório criado no desafio GIT com intuito de registro de notas, exercícios
 * Lógica de Programação e Algoritmo II
 * Lógica de Programação e Algoritmo III
 
-## :handshake: Colaboradores
+## Colaboradores
+:handshake:
 <table>
   <tr>
     <td align="center">
@@ -47,6 +48,6 @@ Repositório criado no desafio GIT com intuito de registro de notas, exercícios
   </tr>
 </table>
 
-## :dart: Status do projeto
-
+## Status do projeto
+ :dart:
 Em processo
