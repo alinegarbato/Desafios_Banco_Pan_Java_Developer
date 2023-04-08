@@ -22,10 +22,12 @@ Repositório criado no desafio GIT com intuito de registro de notas, exercícios
 ## Exercícios e Anotações
 :rocket: Abaixo, seguem meus registros de exercícios e anotações de acordo com a carga horária:
 
-* Introdução a Lógica de Programação
-* Lógica de Programação e Algoritmo I
-* Lógica de Programação e Algoritmo II
-* Lógica de Programação e Algoritmo III
+* Conhecendo a Linguagem de Programação Java
+* Dominando Algoritmos Básicos com Desafios de Códigos Java
+* Programação Orientada a Objetos em Java
+* Trabalhando com Banco de Dados SQL e NOSQL
+* Ganhando Produtividade com Spring Framework
+* Dominando Algoritmos Intermediários com Desafios de Códigos Java
 
 ## Colaboradores
 :handshake:
