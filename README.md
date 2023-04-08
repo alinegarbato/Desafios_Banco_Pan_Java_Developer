@@ -23,11 +23,11 @@ Repositório criado no desafio GIT com intuito de registro de notas, exercícios
 :rocket: Abaixo, seguem meus registros de exercícios e anotações de acordo com a carga horária:
 
 * [Conhecendo a Linguagem de Programação Java](https://github.com/alinegarbato/Desafios_Banco_Pan_Java_Developer/tree/main/Conhecendo%20a%20Linguagem%20de%20Programa%C3%A7%C3%A3o%20Java)
-* Dominando Algoritmos Básicos com Desafios de Códigos Java
-* Programação Orientada a Objetos em Java
-* Trabalhando com Banco de Dados SQL e NOSQL
-* Ganhando Produtividade com Spring Framework
-* Dominando Algoritmos Intermediários com Desafios de Códigos Java
+* [Dominando Algoritmos Básicos com Desafios de Códigos Java](https://github.com/alinegarbato/Desafios_Banco_Pan_Java_Developer/tree/main/Dominando%20Algoritmos%20B%C3%A1sicos%20com%20Desafios%20de%20C%C3%B3digos%20Java)
+* [Programação Orientada a Objetos em Java](https://github.com/alinegarbato/Desafios_Banco_Pan_Java_Developer/tree/main/Programa%C3%A7%C3%A3o%20Orientada%20a%20Objetos%20em%20Java)
+* [Trabalhando com Banco de Dados SQL e NOSQL](https://github.com/alinegarbato/Desafios_Banco_Pan_Java_Developer/tree/main/Trabalhando%20com%20Banco%20de%20Dados%20SQL%20e%20NOSQL)
+* [Ganhando Produtividade com Spring Framework](https://github.com/alinegarbato/Desafios_Banco_Pan_Java_Developer/tree/main/Ganhando%20Produtividade%20com%20Spring%20Framework)
+* [Dominando Algoritmos Intermediários com Desafios de Códigos Java](https://github.com/alinegarbato/Desafios_Banco_Pan_Java_Developer/tree/main/Dominando%20Algoritmos%20Intermedi%C3%A1rios%20com%20Desafios%20de%20C%C3%B3digos%20Java)
 
 ## Colaboradores
 :handshake:
