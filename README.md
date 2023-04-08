@@ -22,7 +22,7 @@ Repositório criado no desafio GIT com intuito de registro de notas, exercícios
 ## Exercícios e Anotações
 :rocket: Abaixo, seguem meus registros de exercícios e anotações de acordo com a carga horária:
 
-* Conhecendo a Linguagem de Programação Java
+* [Conhecendo a Linguagem de Programação Java](https://github.com/alinegarbato/Desafios_Banco_Pan_Java_Developer/tree/main/Conhecendo%20a%20Linguagem%20de%20Programa%C3%A7%C3%A3o%20Java)
 * Dominando Algoritmos Básicos com Desafios de Códigos Java
 * Programação Orientada a Objetos em Java
 * Trabalhando com Banco de Dados SQL e NOSQL
