@@ -9,6 +9,7 @@ Repositório criado no desafio GIT com intuito de registro de notas, exercícios
    * [Sobre o Projeto](#sobre-o-projeto)
    * [Sobre a Dio](#sobre-a-dio)
    * [Exercícios e Anotações](#exercícios-e-anotações)
+   * [Desafios](#desafios)
    * [Colaboradores](#colaboradores)
    * [Status do Projeto](#status-do-projeto)
 <!--te-->
@@ -28,6 +29,10 @@ Repositório criado no desafio GIT com intuito de registro de notas, exercícios
 * [Trabalhando com Banco de Dados SQL e NOSQL](https://github.com/alinegarbato/Desafios_Banco_Pan_Java_Developer/tree/main/Trabalhando%20com%20Banco%20de%20Dados%20SQL%20e%20NOSQL)
 * [Ganhando Produtividade com Spring Framework](https://github.com/alinegarbato/Desafios_Banco_Pan_Java_Developer/tree/main/Ganhando%20Produtividade%20com%20Spring%20Framework)
 * [Dominando Algoritmos Intermediários com Desafios de Códigos Java](https://github.com/alinegarbato/Desafios_Banco_Pan_Java_Developer/tree/main/Dominando%20Algoritmos%20Intermedi%C3%A1rios%20com%20Desafios%20de%20C%C3%B3digos%20Java)
+
+## Desafios
+* [Desafio POO Java]
+(https://github.com/alinegarbato/desafio-poo-dio)
 
 ## Colaboradores
 :handshake:
